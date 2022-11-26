@@ -1,0 +1,14 @@
+Logical operators: 
+https://journey.study/v2/learn/materials/competencies/javascript-basics/javascript-data-types.md
+
+
+Control structures: 
+https://journey.study/v2/learn/materials/competencies/javascript-basics/javascript-control-structures.md
+
+
+Getting started with Jest: 
+https://jestjs.io/docs/getting-started
+
+
+Running jest tests: 
+https://jestjs.io/docs/cli
